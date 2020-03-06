@@ -1,6 +1,8 @@
 # aprende-github
 Si nunca has usado GitHub, empieza con este repositorio.
 
+![Logo UVEG](https://www.uveg.edu.mx/images/oferta/sistemascomputacionales.jpg)
+
 Bienvenido al repositorio de código de la primera generación de la carrera 
 _Ingeniera en Sistemas Computacionales_ de la [UVEG](https://uveg.mx).
 
